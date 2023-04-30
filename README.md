@@ -6,7 +6,7 @@ This project presents sample code for a ventilator prototype developed by a team
 
 The ventilator provides the following functionalities:
 - set the breaths per minutes (BPM)
-- monitor air pressure
+- monitor air pressure yeah bro 
 
 The project was tested on an STM32 NUCLEO-F446RE development board.
 
